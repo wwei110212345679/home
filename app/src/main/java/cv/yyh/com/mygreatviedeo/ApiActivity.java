@@ -11,7 +11,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
-import cv.yyh.com.mygreatviedeo.R;
+
 import com.squareup.picasso.Picasso;
 
 import java.io.FileOutputStream;
@@ -33,6 +33,7 @@ public class ApiActivity extends AppCompatActivity implements View.OnClickListen
     JCVideoPlayerStandard mJcVideoPlayerStandard;
     JCVideoPlayer.JCAutoFullscreenListener mSensorEventListener;
     SensorManager mSensorManager;
+
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
