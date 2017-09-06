@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 .into(mJcVideoPlayerStandard.thumbImageView);
 
         JCVideoPlayer.setJcUserAction(new MyUserActionStandard());
+        String str = "FFFFFFFFFFFFFFFFF3";
 
     }
 
