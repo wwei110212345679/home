@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         JCVideoPlayer.setJcUserAction(new MyUserActionStandard());
         JCVideoPlayer.setJcUserAction(new MyUserActionStandard());
         JCVideoPlayer.setJcUserAction(new MyUserActionStandard());
+        JCVideoPlayer.setJcUserAction(new MyUserActionStandard());
         String str = "FFFFFFFFFFFFFFFFF3";
 
 
